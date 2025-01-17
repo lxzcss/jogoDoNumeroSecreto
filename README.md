@@ -1,3 +1,5 @@
-Tente jogar!!
+<h2> Tente Jogar!!</h2>
 
-https://jogo-zeta-five-56.vercel.app/
+<h3>Entre no link abaixo:</h3>
+
+<p> https://jogo-zeta-five-56.vercel.app/ </p>
